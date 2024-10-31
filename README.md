@@ -3,7 +3,7 @@
 This repo is created by Elif Özkan
 How to reach me is elifcozkan@gmail.com
 
-# project1 questions
+## project1 questions
 1.	Write a code that return digit number. 
 2.	We have only !, &&, || and <. Write >, >=, <=, == and != comparisons.
 3.	User writes day, hour, min and sec. Prepare it for order.
@@ -21,7 +21,7 @@ How to reach me is elifcozkan@gmail.com
 15.	Write a code that to find the day of the year on the given date.
 16.	Write a code that generates random passwords with 6 - 10 characters.
 
-#project2 questions
+## project2 questions
 1.	Write a code that creates random arrays and prints them.
 2.	Write a code that gives the sum of random array.
 3.	Write a code that calculates standard deviation of an array.
@@ -34,7 +34,7 @@ How to reach me is elifcozkan@gmail.com
 10.	Write a Merge array algorithm.
 11.	Wrtie a code with Bubble sort which shows odd numbers first then evens.
 
-#project3 questions
+## project3 questions
 1.	Write a code that takes all the input lines till the new line comes.
 2.	Write a code that calculates the length of input string.
 3.	Write a code that add exclamation at the end of the string and writes it to standard input.
@@ -44,7 +44,7 @@ How to reach me is elifcozkan@gmail.com
 7.	Write a code that reverses the taken string.
 8.	Write a code that gives the number of words given.
 
-#project4 questions
+## project4 questions
 1.	Write a code that displays arrays with pointers.
 2.	Write a function that calculates the arithmetic mean of an array whose elements are of type int.
 3.	Write a function that reverses the elements of an array whose elements are of type int.
@@ -53,7 +53,7 @@ How to reach me is elifcozkan@gmail.com
 6.	Write the code that copies an array to another array.
 7.	Write the selection sort algorithm for an array.	
 
-#project5 questions
+## project5 questions
 1.	Write a code that prints the text at the address it receives to the standard output stream.
 2.	Write a code that calculates how many identical characters there are in a text.
 3.	Write a code that works like strlen.
