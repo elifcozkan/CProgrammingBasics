@@ -1,7 +1,8 @@
 # CProgrammingBasics
  
-This repo is created by Elif Özkan
-How to reach me is elifcozkan@gmail.com
+This repo is created by Elif Özkan.
+
+You can reach me via email at elifcozkan@gmail.com
 
 ## project1 questions
 1.	Write a code that return digit number. 
