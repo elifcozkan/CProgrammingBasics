@@ -1,0 +1,14 @@
+﻿  source.c
+D:\workspace\CProgrammingBeginnerWorkspace\project2\source.c(236,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+D:\workspace\CProgrammingBeginnerWorkspace\project2\source.c(242,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+D:\workspace\CProgrammingBeginnerWorkspace\project2\source.c(253,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+D:\workspace\CProgrammingBeginnerWorkspace\project2\source.c(263,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+D:\workspace\CProgrammingBeginnerWorkspace\project2\source.c(271,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+D:\workspace\CProgrammingBeginnerWorkspace\project2\source.c(286,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+D:\workspace\CProgrammingBeginnerWorkspace\project2\source.c(299,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+D:\workspace\CProgrammingBeginnerWorkspace\project2\source.c(307,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+D:\workspace\CProgrammingBeginnerWorkspace\project2\source.c(316,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+D:\workspace\CProgrammingBeginnerWorkspace\project2\source.c(317,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+D:\workspace\CProgrammingBeginnerWorkspace\project2\source.c(357,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+D:\workspace\CProgrammingBeginnerWorkspace\project2\source.c(358,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  project2.vcxproj -> D:\workspace\CProgrammingBeginnerWorkspace\project2\Debug\project2.exe

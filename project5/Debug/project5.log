@@ -1,0 +1,8 @@
+﻿  source.c
+D:\workspace\CProgrammingBeginnerWorkspace\project5\source.c(91,69): warning C4013: 'stringKeyCounter' undefined; assuming extern returning int
+D:\workspace\CProgrammingBeginnerWorkspace\project5\source.c(107,45): warning C4013: 'myStrLen' undefined; assuming extern returning int
+D:\workspace\CProgrammingBeginnerWorkspace\project5\source.c(125,36): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[100]'
+D:\workspace\CProgrammingBeginnerWorkspace\project5\source.c(125,26): warning C4024: 'myStrCpy': different types for formal and actual parameter 2
+D:\workspace\CProgrammingBeginnerWorkspace\project5\source.c(324,41): warning C4133: '-': incompatible types - from 'double *' to 'int *'
+D:\workspace\CProgrammingBeginnerWorkspace\project5\source.c(375,32): warning C4142: 'myStrLen': benign redefinition of type
+  project5.vcxproj -> D:\workspace\CProgrammingBeginnerWorkspace\project5\Debug\project5.exe

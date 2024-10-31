@@ -1,0 +1,9 @@
+﻿  source.c
+D:\workspace\CProgrammingBeginnerWorkspace\project4\source.c(163,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+D:\workspace\CProgrammingBeginnerWorkspace\project4\source.c(174,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+D:\workspace\CProgrammingBeginnerWorkspace\project4\source.c(182,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+D:\workspace\CProgrammingBeginnerWorkspace\project4\source.c(194,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+D:\workspace\CProgrammingBeginnerWorkspace\project4\source.c(195,21): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+D:\workspace\CProgrammingBeginnerWorkspace\project4\source.c(214,1): warning C4090: 'başlatılıyor': farklı 'const' niteleyicileri
+D:\workspace\CProgrammingBeginnerWorkspace\project4\source.c(225,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  project4.vcxproj -> D:\workspace\CProgrammingBeginnerWorkspace\project4\Debug\project4.exe
